@@ -22,7 +22,7 @@ Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert
   
   Die Frequenzwerte werden in Bündeln von 3 Werten untereinander in PD-Zahlenboxen geschrieben
   
-# C-External 2: PH_Formanten_OSC
+# C-External 2: PH_Formant_OSC
   Ein PD-Objekt für die Erzeugung eines zeitlich veränderlichen Tons. 
   
   Input: Frequenzwert 
