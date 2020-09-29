@@ -3,7 +3,7 @@
 Vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmonizer, Pitchshifter und Oszillatoren mit einstellbaren Formaten-Envelopes.
 
 Synthesizer aktiviert Frequenzwerte des Harmonizers, diese durchlaufen einen Pitchshift (einfache Division) und werden an separate Oszillatoren geleitet.
-(Vgl. PH_SYNTH.PDF)
+(Vgl. PH_Synth.Pdf)
 
 Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert werden.
 
