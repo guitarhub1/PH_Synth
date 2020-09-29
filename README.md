@@ -1,6 +1,9 @@
 # PH_Synth   
 ## von Michael Pohn (415427) und Hannes Hügel (412474)
-Vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmonizer, Pitchshifter und Oszilatoren mit einstellbaren Formaten
+Vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmonizer, Pitchshifter und Oszillatoren mit einstellbaren Formaten-Envelopes.
+
+Synthesizer aktiviert Frequenzwerte des Harmonizers, diese durchlaufen einen Pitchshift (einfache Division) und werden an separate Oszillatoren geleitet.
+(Vgl. PH_SYNTH.PDF)
 
 Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert werden.
 
@@ -33,9 +36,9 @@ Output: Signalstream
   Parameter:
   
     Anzahl der Obertöne 
-    einstellbare Wellenform
+    Einstellbare Wellenform
     Regler zur Einstellung der Formantenbereiche
-    vier Hüllkurven für die Formanten
+    Vier Hüllkurven für die Formanten
     Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
       
 ## Geplante Weiter-Entwicklung
