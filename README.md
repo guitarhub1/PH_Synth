@@ -1,4 +1,5 @@
-# PH_Synth   //von Michael Pohn und Hannes Hügel 
+# PH_Synth   
+## von Michael Pohn und Hannes Hügel 
 Ist ein vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmonizer, Pitchshifter und Oszilatoren
 
 Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert werden.
