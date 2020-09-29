@@ -11,5 +11,5 @@ Parameter:
     Anzahl der Obertöne 
     Einstellbare Wellenform
     Regler zur Einstellung der Formantenbereiche
-    Vier Hüllkurven für die Formanten
+    Vier Hüllkurven für die Formantenbereiche
     Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
