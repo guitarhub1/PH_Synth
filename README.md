@@ -38,5 +38,5 @@ Output: Signalstream
     vier Hüllkurven für die Formanten
     Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
       
-    
-
+## Geplante Weiter-Entwicklung
+-Ansteuerung der Parameter mit MIDI-Controller
