@@ -4,7 +4,7 @@ Ein PD-Objekt zur Berechnung von Frequenzwerten für Dur-,Moll- und verminderte 
 
 Input: Frequenzwert für die grundlegende Tonika
 
-Outputs: Frequenzwerte für Dreiklänge
+Outputs: Frequenzwerte für Dreiklänge in Grundstellung
 
     I   -Stufe: Dur-Dreiklang
     ii  -Stufe: Moll-Dreiklang
