@@ -13,7 +13,7 @@ Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert
   
   Input: Frequenzwert für die grundlegende Tonika
   
-  Outputs: Frequenzwerte für Dreiklänge
+  Outputs: Frequenzwerte für Dreiklänge in der Grundstellung
   
     I   -Stufe: Dur-Dreiklang
     ii  -Stufe: Moll-Dreiklang
@@ -42,4 +42,14 @@ Output: Signalstream
     Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
       
 ## Geplante Weiter-Entwicklung
--Ansteuerung der Parameter mit MIDI-Controller
+### PD-Patch
+    Ansteuerung der Parameter mit MIDI-Controller
+    Hinzufügen eines Halls
+    
+### PH_PitchPerfect
+    Implementierung einer Logik um Akkord-Inversionen miteinzubeziehen
+    Erweiterung um einen weiteren Akkordton (Vierklänge)
+    
+### PH_Formant_OSC
+    Envelopedurchlaufzeit für jeden einzelenen Formantenbereich einstellbar machen
+    Voreinstellbare Wellenformen (Rechteck, Sägezahn, Dreieck)
