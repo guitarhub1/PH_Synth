@@ -8,12 +8,8 @@ Output: Signalstream
 
   Parameter:
   
-  Anzahl der Obertöne
-  
-  einestellbare Wellenform
-  
-  Regler zur Einstellung der Formantenbereiche
-  
-  vier Hüllkurven für die Formanten
-  
-  Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
+    Anzahl der Obertöne 
+    einstellbare Wellenform
+    Regler zur Einstellung der Formantenbereiche
+    vier Hüllkurven für die Formanten
+    Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
