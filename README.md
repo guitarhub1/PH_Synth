@@ -4,10 +4,13 @@ Ist ein vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmon
 
 Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert werden.
 
-# C-External 1: PH_Pitchperfect
-  Ein PD-Objekt zur Berechnung von Frequenzwerten für Dur-,Moll- und verminderte Dreiklänge.
-  Input ist der Frequenzwert für die grundlegende Tonika
+# C-External 1: PH_PitchPerfect
+  Ein PD-Objekt zur Berechnung von Frequenzwerten für Dur-,Moll- und verminderte Dreiklänge in reiner Stimmung
   Es werden Frequenzwerte für die Dreiklänge anhand der westlicher Stufentheorie generiert.
+  
+  Input: Frequenzwert für die grundlegende Tonika
+  
+  Outputs: Frequenzwerte 
     I   -Stufe: Dur-Dreiklang
     ii  -Stufe: Moll-Dreiklang
     iii -Stufe: Moll-Dreiklang
