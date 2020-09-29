@@ -13,7 +13,7 @@ Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert
   
   Input: Frequenzwert für die grundlegende Tonika
   
-  Outputs: Frequenzwerte für Dreiklänge in der Grundstellung
+  Outputs: Frequenzwerte für Dreiklänge in Grundstellung
   
     I   -Stufe: Dur-Dreiklang
     ii  -Stufe: Moll-Dreiklang
