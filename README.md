@@ -23,20 +23,20 @@ Für die vollständige Funktion des PH_Synth müssen zwei C-Externals kompiliert
   Die Frequenzwerte werden in Bündeln von 3 Werten untereinander in PD-Zahlenboxen geschrieben
   
 # C-External 2: PH_Formant_OSC
-  Ein PD-Objekt für die Erzeugung eines zeitlich veränderlichen Tons. 
+
+Ein PD-Objekt für die Erzeugung eines zeitlich veränderlichen Tons.
+
+Input: Frequenzwert
+
+Output: Signalstream
+
+  Parameter:
   
-  Input: Frequenzwert 
-  
-  Output: Signalstream
-  
-      Parameter:
-      Anzahl der Obertöne
-      einestellbare Wellenform
-      Regler zur Einstellung der Formantenbereiche
-      vier Hüllkurven für die Formanten
-      Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
-      
- 
+    Anzahl der Obertöne 
+    einstellbare Wellenform
+    Regler zur Einstellung der Formantenbereiche
+    vier Hüllkurven für die Formanten
+    Regler für Geschwindigkeit des Hüllkurven-Durchlaufs
       
     
 
