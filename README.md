@@ -1,4 +1,7 @@
 # PH_Synth   
+
+Videoexplanation under https://vimeo.com/518617869
+
 ## von Michael Pohn (415427) und Hannes Hügel (412474)
 Vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmonizer, Pitchshifter und Oszillatoren mit einstellbaren Formaten-Envelopes.
 
@@ -43,7 +46,7 @@ Output: Signalstream
       
 ## Geplante Weiter-Entwicklung
 ### PD-Patch
-    Ansteuerung der Parameter mit MIDI-Controller
+    Ansteuerung der Parameter mit MIDI-Controller (done)
     Hinzufügen eines Halls
     
 ### PH_PitchPerfect
