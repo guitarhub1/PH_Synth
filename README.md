@@ -1,8 +1,13 @@
 Added Material:
+
 -Videoexplanation under https://vimeo.com/518617869
+
 -Added Harmonizer for Tetracords, including a testpatch 
+
 -Added Patches for MIDI Control with Arturia Beatsept Pro
+
   -Therefore Go to Controllmode to adjust the Parameters
+  
   -Sequence is coming to Midichannel 1
   
 
