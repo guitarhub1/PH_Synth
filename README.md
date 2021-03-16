@@ -1,7 +1,15 @@
+Added Material:
+-Videoexplanation under https://vimeo.com/518617869
+-Added Harmonizer for Tetracords, including a testpatch 
+-Added Patches for MIDI Control with Arturia Beatsept Pro
+  -Therefore Go to Controllmode to adjust the Parameters
+  -Sequence is coming to Midichannel 1
+  
+
+
+Folgendes:------Uniprojekt Real time Audioprocessing with C and Pure Data ---------Abgeschlossen
+
 # PH_Synth   
-
-Videoexplanation under https://vimeo.com/518617869
-
 ## von Michael Pohn (415427) und Hannes Hügel (412474)
 Vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmonizer, Pitchshifter und Oszillatoren mit einstellbaren Formaten-Envelopes.
 
