@@ -12,9 +12,9 @@ Added Material:
   
 
 
-Folgendes:------Uniprojekt Real time Audioprocessing with C and Pure Data ---------Abgeschlossen
+Folgendes:------ ---------Abgeschlossen
 
-# PH_Synth   
+# PH_Synth (Uniprojekt Real Time Audio Processing in C and Pure Data, Technische Universität Berlin, Benotung 1,3)
 ## von Michael Pohn (415427) und Hannes Hügel (412474)
 Vollständiger bespielbarer Synthesizer. Bestehend aus Sequenzer, Harmonizer, Pitchshifter und Oszillatoren mit einstellbaren Formaten-Envelopes.
 
